@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kaili\\Desktop\\CsharpProjects\\API\\ExamFromArthur\\FindTheYoungest\\FindTheYoungest.csproj": {}
+    "c:\\Users\\Kaili\\Desktop\\CsharpProjects\\API\\ExamFromArthur\\FindTheYoungest\\FindTheYoungest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kaili\\Desktop\\CsharpProjects\\API\\ExamFromArthur\\FindTheYoungest\\FindTheYoungest.csproj": {
+    "c:\\Users\\Kaili\\Desktop\\CsharpProjects\\API\\ExamFromArthur\\FindTheYoungest\\FindTheYoungest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kaili\\Desktop\\CsharpProjects\\API\\ExamFromArthur\\FindTheYoungest\\FindTheYoungest.csproj",
+        "projectUniqueName": "c:\\Users\\Kaili\\Desktop\\CsharpProjects\\API\\ExamFromArthur\\FindTheYoungest\\FindTheYoungest.csproj",
         "projectName": "FindTheYoungest",
-        "projectPath": "C:\\Users\\Kaili\\Desktop\\CsharpProjects\\API\\ExamFromArthur\\FindTheYoungest\\FindTheYoungest.csproj",
+        "projectPath": "c:\\Users\\Kaili\\Desktop\\CsharpProjects\\API\\ExamFromArthur\\FindTheYoungest\\FindTheYoungest.csproj",
         "packagesPath": "C:\\Users\\Kaili\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kaili\\Desktop\\CsharpProjects\\API\\ExamFromArthur\\FindTheYoungest\\obj\\",
+        "outputPath": "c:\\Users\\Kaili\\Desktop\\CsharpProjects\\API\\ExamFromArthur\\FindTheYoungest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kaili\\AppData\\Roaming\\NuGet\\NuGet.Config"
