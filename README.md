@@ -11,19 +11,17 @@
 * Copy this on body json or you can add your own:
 
 [
-    {
-    
-     "Name" : "john",
-     "Age" : 1
-  
+{
+"Name" : "john",
+"Age" : 1
 },
 {
-     "Name" : "jeyy",
-   "Age" : 1
+"Name" : "jeyy",
+"Age" : 1
 },
 {
-     "Name" : "robert",
-     "Age" : 2
+"Name" : "robert",
+ "Age" : 2
 }
 ]
 
