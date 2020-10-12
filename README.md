@@ -3,7 +3,7 @@
 * Clone the repository
 * open on vscode
 * run using explorer or
-* using cli cd FindYoungest and the dotnet run
+* using cli cd FindYoungest and then dotnet run
 
 
 # using postman
