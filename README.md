@@ -1,8 +1,8 @@
 # ExamFromArthur
-Clone the repository
-open on vscode
-run using explorer or
-cd FindYoungest and the dotnet run
+*Clone the repository
+*open on vscode
+*run using explorer or
+*cd FindYoungest and the dotnet run
 
 
 *using postman
